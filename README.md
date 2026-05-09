@@ -9,7 +9,7 @@ Given the parametric equation for an ellipse
 
 $$\textbf{x}(t) = \textbf{c} + \textbf{u}\cos{t} + \textbf{v}\sin{t},\ 0 \le t \le 2\pi$$
 
-where x is your position along the elipse given parameter t, c is the center of the ellipse, u is the vector of representing the length of the major axis, v is the vector representing the length of the minor axis
+where x is your position along the ellipse given parameter t, c is the center of the ellipse, u is the vector representing the length of the major axis, v is the vector representing the length of the minor axis
 
 ![image](https://github.com/user-attachments/assets/0e7f6845-d844-4f2a-9b9f-283f0782c1fc)
 
