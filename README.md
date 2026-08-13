@@ -1,10 +1,10 @@
 # Orthogonal Projection of a Point onto an ellipse
 Two different methods are detailed here
-1. [Analytic Method using Weierstrass Substitution](#1-analytic-method-using-weierstrass-substitution)
+1. [Analytic Method using Tangent Half-Angle Substitution](#1-analytic-method-using-tangent-half-angle-substitution)
 2. [Iterative Method using Gradient Descent](#2-iterative-method-using-gradient-descent)
 
 ---
-### 1. Analytic Method using Weierstrass Substitution
+### 1. Analytic Method using Tangent Half-Angle Substitution
 Given the parametric equation for an ellipse
 
 $$\textbf{x}(t) = \textbf{c} + \textbf{u}\cos{t} + \textbf{v}\sin{t},\ 0 \le t \le 2\pi$$
